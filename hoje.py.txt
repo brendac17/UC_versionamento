@@ -1,0 +1,2 @@
+print("hoje é 26,mano!")
+print("chega logo sexta")
